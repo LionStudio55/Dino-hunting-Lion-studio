@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "730775808300",
+    "project_id": "gs-games-c6039",
+    "storage_bucket": "gs-games-c6039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730775808300:android:f6088b736c387da722a489",
+        "android_client_info": {
+          "package_name": "com.gangster.jail.prison.escape.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730775808300-3r3vo0b9c8njspsct3ir146j720danq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-gtp0UKv2WuotIWIvFXiNlAtp_PErSus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730775808300-3r3vo0b9c8njspsct3ir146j720danq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730775808300:android:1abefc18ded2ae4122a489",
+        "android_client_info": {
+          "package_name": "com.offroad.snow.excavator.simulator.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730775808300-3r3vo0b9c8njspsct3ir146j720danq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-gtp0UKv2WuotIWIvFXiNlAtp_PErSus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730775808300-3r3vo0b9c8njspsct3ir146j720danq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730775808300:android:8b2c4dd89df9ee2e22a489",
+        "android_client_info": {
+          "package_name": "com.rescue.angry.animal.transport.truck.Simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730775808300-3r3vo0b9c8njspsct3ir146j720danq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-gtp0UKv2WuotIWIvFXiNlAtp_PErSus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730775808300-3r3vo0b9c8njspsct3ir146j720danq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

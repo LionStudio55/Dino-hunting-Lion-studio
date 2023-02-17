@@ -1,0 +1,890 @@
+fileFormatVersion: 2
+guid: d86442eb775aca144a1840c69e43a810
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: BLFoot
+  - first:
+      1: 100002
+    second: BLShin
+  - first:
+      1: 100004
+    second: BLThigh
+  - first:
+      1: 100006
+    second: Body
+  - first:
+      1: 100008
+    second: BRFoot
+  - first:
+      1: 100010
+    second: BRShin
+  - first:
+      1: 100012
+    second: BRThigh
+  - first:
+      1: 100014
+    second: Camera
+  - first:
+      1: 100016
+    second: FLFoot
+  - first:
+      1: 100018
+    second: FLShin
+  - first:
+      1: 100020
+    second: FLThigh
+  - first:
+      1: 100022
+    second: FRFoot
+  - first:
+      1: 100024
+    second: FrontBody
+  - first:
+      1: 100026
+    second: FRShin
+  - first:
+      1: 100028
+    second: FRThigh
+  - first:
+      1: 100030
+    second: Head
+  - first:
+      1: 100032
+    second: Jaw
+  - first:
+      1: 100034
+    second: Light
+  - first:
+      1: 100036
+    second: Tail1
+  - first:
+      1: 100038
+    second: Tail2
+  - first:
+      1: 100040
+    second: Tail3
+  - first:
+      1: 100042
+    second: //RootNode
+  - first:
+      1: 100044
+    second: Triceratops_1
+  - first:
+      4: 400000
+    second: BLFoot
+  - first:
+      4: 400002
+    second: BLShin
+  - first:
+      4: 400004
+    second: BLThigh
+  - first:
+      4: 400006
+    second: Body
+  - first:
+      4: 400008
+    second: BRFoot
+  - first:
+      4: 400010
+    second: BRShin
+  - first:
+      4: 400012
+    second: BRThigh
+  - first:
+      4: 400014
+    second: Camera
+  - first:
+      4: 400016
+    second: FLFoot
+  - first:
+      4: 400018
+    second: FLShin
+  - first:
+      4: 400020
+    second: FLThigh
+  - first:
+      4: 400022
+    second: FRFoot
+  - first:
+      4: 400024
+    second: FrontBody
+  - first:
+      4: 400026
+    second: FRShin
+  - first:
+      4: 400028
+    second: FRThigh
+  - first:
+      4: 400030
+    second: Head
+  - first:
+      4: 400032
+    second: Jaw
+  - first:
+      4: 400034
+    second: Light
+  - first:
+      4: 400036
+    second: Tail1
+  - first:
+      4: 400038
+    second: Tail2
+  - first:
+      4: 400040
+    second: Tail3
+  - first:
+      4: 400042
+    second: //RootNode
+  - first:
+      4: 400044
+    second: Triceratops_1
+  - first:
+      43: 4300000
+    second: Triceratops_1
+  - first:
+      74: 7400000
+    second: Stand Still
+  - first:
+      74: 7400002
+    second: Walk
+  - first:
+      74: 7400004
+    second: Run
+  - first:
+      74: 7400006
+    second: Stand Die
+  - first:
+      74: 7400008
+    second: Run Die
+  - first:
+      74: 7400010
+    second: Hurt
+  - first:
+      74: 7400012
+    second: Attack
+  - first:
+      74: 7400014
+    second: Idle
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Triceratops_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TriceratopsMat
+    second: {fileID: 2100000, guid: f25f8d1d1de85ea41b0f66d7b114becd, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand Still
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 0.1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Triceratops_1
+        weight: 1
+      - path: Triceratops_1/Body
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head/Jaw
+        weight: 1
+      - path: Triceratops_1/Body/Tail1
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2/Tail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 3
+      lastFrame: 35
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Triceratops_1
+        weight: 1
+      - path: Triceratops_1/Body
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head/Jaw
+        weight: 1
+      - path: Triceratops_1/Body/Tail1
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2/Tail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 38
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.7123882
+        functionName: RunFootstepSound
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Triceratops_1
+        weight: 1
+      - path: Triceratops_1/Body
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head/Jaw
+        weight: 1
+      - path: Triceratops_1/Body/Tail1
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2/Tail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Die
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 53
+      lastFrame: 106
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Triceratops_1
+        weight: 1
+      - path: Triceratops_1/Body
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head/Jaw
+        weight: 1
+      - path: Triceratops_1/Body/Tail1
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2/Tail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run Die
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 109
+      lastFrame: 148
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Triceratops_1
+        weight: 1
+      - path: Triceratops_1/Body
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head/Jaw
+        weight: 1
+      - path: Triceratops_1/Body/Tail1
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2/Tail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hurt
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 151
+      lastFrame: 199
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Triceratops_1
+        weight: 1
+      - path: Triceratops_1/Body
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head/Jaw
+        weight: 1
+      - path: Triceratops_1/Body/Tail1
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2/Tail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 200
+      lastFrame: 243
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5531253
+        functionName: SendEmeraldDamage
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Triceratops_1
+        weight: 1
+      - path: Triceratops_1/Body
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head/Jaw
+        weight: 1
+      - path: Triceratops_1/Body/Tail1
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2/Tail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 245
+      lastFrame: 344
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Triceratops_1
+        weight: 1
+      - path: Triceratops_1/Body
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin
+        weight: 1
+      - path: Triceratops_1/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin
+        weight: 1
+      - path: Triceratops_1/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head
+        weight: 1
+      - path: Triceratops_1/Body/FrontBody/Head/Jaw
+        weight: 1
+      - path: Triceratops_1/Body/Tail1
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2
+        weight: 1
+      - path: Triceratops_1/Body/Tail1/Tail2/Tail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

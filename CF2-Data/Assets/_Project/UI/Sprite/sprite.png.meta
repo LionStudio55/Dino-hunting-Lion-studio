@@ -1,0 +1,2433 @@
+fileFormatVersion: 2
+guid: 54029e5265622e24ca40955b731af046
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4298345892085953899
+    second: exitbg
+  - first:
+      213: 7468057293271108204
+    second: Fillbar
+  - first:
+      213: 2076983720127968420
+    second: scopeIcon
+  - first:
+      213: -1842589531783952824
+    second: playbutton
+  - first:
+      213: -1768044199346558973
+    second: rateicon
+  - first:
+      213: 1164784180236137431
+    second: EveryThing
+  - first:
+      213: -6330212380425479180
+    second: magzine
+  - first:
+      213: -3087928711210884387
+    second: settingicon
+  - first:
+      213: -4141618006047545035
+    second: sprite_8
+  - first:
+      213: 3498192974780148551
+    second: sprite_9
+  - first:
+      213: 3315133225947153681
+    second: moreicon
+  - first:
+      213: -1156211459298525094
+    second: damageIcon
+  - first:
+      213: -1703134936839448990
+    second: bestOffer
+  - first:
+      213: -3165630140643383358
+    second: exiticon
+  - first:
+      213: -7583028329274617242
+    second: Firerate
+  - first:
+      213: 5176796689861072655
+    second: Profile
+  - first:
+      213: 7009506826980029659
+    second: inappmode2
+  - first:
+      213: 8209388160355200152
+    second: ad
+  - first:
+      213: 3297040257379849062
+    second: CPBG
+  - first:
+      213: 4714612377991225581
+    second: Mainmenubutton
+  - first:
+      213: -3483601440585343929
+    second: BackIcon
+  - first:
+      213: 7195825370017840344
+    second: Modes
+  - first:
+      213: -304463935825674592
+    second: inappgun1
+  - first:
+      213: 7770984457844126357
+    second: inapp mode1
+  - first:
+      213: 5304738838090765386
+    second: Inappsdino
+  - first:
+      213: -345217630037912794
+    second: scopeicon
+  - first:
+      213: 6708253408489209243
+    second: earningbar
+  - first:
+      213: 8731780737059244501
+    second: ButtonEffect
+  - first:
+      213: 8330564388217406473
+    second: modescp
+  - first:
+      213: 4534107684191493540
+    second: inapgun2
+  - first:
+      213: -6733484537083420067
+    second: policetransport
+  - first:
+      213: 5994137877817401668
+    second: Profilebg
+  - first:
+      213: -1151321140488109617
+    second: Everything
+  - first:
+      213: 6826066106928113375
+    second: inapp mode2
+  - first:
+      213: 4509613849504288090
+    second: inapp mode3
+  - first:
+      213: -7719358858490347495
+    second: Farming
+  - first:
+      213: -2669849523459924870
+    second: dinohunting
+  - first:
+      213: 1899172466650940068
+    second: bus
+  - first:
+      213: 8211603999249465171
+    second: sprite_38
+  - first:
+      213: 4468518406911004223
+    second: sprite_39
+  - first:
+      213: -896492995600906671
+    second: sprite_40
+  - first:
+      213: -2379744452762857224
+    second: SPECFILLBARBG
+  - first:
+      213: 6576371778516554368
+    second: animaltransport
+  - first:
+      213: 6884638909312072214
+    second: prisoner
+  - first:
+      213: 6619546393365610640
+    second: gangste
+  - first:
+      213: 4312798591328080771
+    second: robottransform
+  - first:
+      213: -7296121983034855198
+    second: empty yellow
+  - first:
+      213: 1649869556742886736
+    second: FILLBARBG
+  - first:
+      213: 6858077854668188939
+    second: Goldbricks
+  - first:
+      213: -6033397463038731431
+    second: Dino1
+  - first:
+      213: 1940296368171462890
+    second: Dino2
+  - first:
+      213: -5788246084750471795
+    second: Dino4
+  - first:
+      213: 8603958303919590644
+    second: dino7
+  - first:
+      213: -8314580487963125424
+    second: Sunshaft
+  - first:
+      213: -1123669543191180815
+    second: Levelbg
+  - first:
+      213: -4367367781644900664
+    second: dollaricon
+  - first:
+      213: 48380099829707227
+    second: dino3
+  - first:
+      213: -7842022365211870293
+    second: Levelbar
+  - first:
+      213: -4550782126609231729
+    second: gun4
+  - first:
+      213: -8099402361197706297
+    second: dino5
+  - first:
+      213: 8851119493934021924
+    second: dino6
+  - first:
+      213: 8208480987034416771
+    second: gun10
+  - first:
+      213: 2178675759595541465
+    second: gunbgblue
+  - first:
+      213: -8445062982442411228
+    second: specbg
+  - first:
+      213: 5672525412466387433
+    second: gunbgyellow
+  - first:
+      213: -4365913855385300912
+    second: sprite_65
+  - first:
+      213: 1278053805056809548
+    second: animalicon
+  - first:
+      213: -4053510735848642887
+    second: gun5
+  - first:
+      213: -5744635789665289693
+    second: gunbgrey
+  - first:
+      213: 3757137579358372228
+    second: policetransporticon
+  - first:
+      213: -8906758115978532409
+    second: farmingicon
+  - first:
+      213: 272573862175564734
+    second: gun10
+  - first:
+      213: -790310794365242227
+    second: gun10
+  - first:
+      213: 3518780201971705491
+    second: gangster
+  - first:
+      213: -1412724661865519394
+    second: JailPrisoner
+  - first:
+      213: 2288862343734481905
+    second: busicon
+  - first:
+      213: 243901563947789508
+    second: sprite_76roboticon
+  - first:
+      213: 4911443720206269164
+    second: gun10
+  - first:
+      213: 2977216101329997157
+    second: gunlock
+  - first:
+      213: 2251445775097118859
+    second: gun3
+  - first:
+      213: 3604720544715883193
+    second: gun10
+  - first:
+      213: -8903238558322244470
+    second: Lock
+  - first:
+      213: 7843991251270098246
+    second: Tick
+  - first:
+      213: 4167055011836572087
+    second: noadsicon
+  - first:
+      213: 1247173695027177079
+    second: redGun
+  - first:
+      213: 2977942398303041733
+    second: gun1
+  - first:
+      213: 7111463964421577707
+    second: gun2
+  - first:
+      213: -7680282280165000068
+    second: shop
+  - first:
+      213: 8966830620820810929
+    second: sprite_88
+  - first:
+      213: -6498630678266981491
+    second: sprite_89
+  - first:
+      213: 3979222412508260327
+    second: sprite_90
+  - first:
+      213: -448246657862894015
+    second: sprite_91
+  - first:
+      213: 8164223068501443182
+    second: sprite_92
+  - first:
+      213: 2388287085414056508
+    second: sprite_93
+  - first:
+      213: -2221614102108777155
+    second: sprite_94
+  - first:
+      213: 149629400100917266
+    second: sprite_95
+  - first:
+      213: -4766651694699360121
+    second: sprite_96
+  - first:
+      213: -5549826342019028821
+    second: sprite_97
+  - first:
+      213: 1416902456570595189
+    second: sprite_98
+  - first:
+      213: 4418958054230761715
+    second: sprite_99
+  - first:
+      213: -6679451663806236642
+    second: sprite_100
+  - first:
+      213: 2521628029965205849
+    second: sprite_101
+  - first:
+      213: 6877493705978332837
+    second: sprite_102
+  - first:
+      213: 2304553613750183120
+    second: sprite_103
+  - first:
+      213: -4931984093105444333
+    second: sprite_104
+  - first:
+      213: -3728063104516872778
+    second: sprite_105
+  - first:
+      213: 1067353672446578541
+    second: sprite_106
+  - first:
+      213: -6341517657247744555
+    second: sprite_107
+  - first:
+      213: 2362880460173786002
+    second: sprite_108
+  - first:
+      213: -6111125354575051318
+    second: sprite_109
+  - first:
+      213: 4360959576278826979
+    second: sprite_110
+  - first:
+      213: 5013315412826079385
+    second: BlueButton
+  - first:
+      213: -5062640445624864694
+    second: Gun
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exitbg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1944
+        width: 158
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a057c4f253954c0800000000000000
+      internalID: -4298345892085953899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fillbar
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2035
+        width: 209
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a80bf6a8ed3a760800000000000000
+      internalID: 7468057293271108204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playbutton
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1854
+        width: 606
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8460a23559ecd66e0800000000000000
+      internalID: -1842589531783952824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rateicon
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1968
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30822ce0b25a677e0800000000000000
+      internalID: -1768044199346558973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settingicon
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1972
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ab8c92397525d0800000000000000
+      internalID: -3087928711210884387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moreicon
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1978
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115ccabca18b10e20800000000000000
+      internalID: 3315133225947153681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bestOffer
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1859
+        width: 366
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266902d6ccf3d58e0800000000000000
+      internalID: -1703134936839448990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exiticon
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1862
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c76ea8c82c6114d0800000000000000
+      internalID: -3165630140643383358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profile
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1869
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07569d592da7d740800000000000000
+      internalID: 5176796689861072655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inappmode2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1853
+        width: 157
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4f1d83255c64160800000000000000
+      internalID: 7009506826980029659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ad
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1871
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ce441690b9de170800000000000000
+      internalID: 8209388160355200152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CPBG
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1672
+        width: 205
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d94745a071cd20800000000000000
+      internalID: 3297040257379849062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainmenubutton
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1653
+        width: 167
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0a3db8afaad6140800000000000000
+      internalID: 4714612377991225581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inapp mode1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1744
+        width: 157
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59271e4213518db60800000000000000
+      internalID: 7770984457844126357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scopeicon
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1693
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623536ff46a853bf0800000000000000
+      internalID: -345217630037912794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonEffect
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1652
+        width: 606
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c30141548d2970800000000000000
+      internalID: 8731780737059244501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scopeIcon
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 2000
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a43f7a60bde2dc10800000000000000
+      internalID: 2076983720127968420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryThing
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1896
+        width: 557
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 178, y: 39, z: 192, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d338f66a052a2010800000000000000
+      internalID: 1164784180236137431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magzine
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1978
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb95fff0619628a0800000000000000
+      internalID: -6330212380425479180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageIcon
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1953
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50864bbdcf44ffe0800000000000000
+      internalID: -1156211459298525094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firerate
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1903
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662dcdf39eba3c690800000000000000
+      internalID: -7583028329274617242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackIcon
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1836
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c1fda52f2c7afc0800000000000000
+      internalID: -3483601440585343929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modes
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1319
+        width: 440
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc38a58c05bcd360800000000000000
+      internalID: 7195825370017840344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inappgun1
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1576
+        width: 171
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae713ad9a356cbf0800000000000000
+      internalID: -304463935825674592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inappsdino
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1425
+        width: 144
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445e961ed73e9940800000000000000
+      internalID: 5304738838090765386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earningbar
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1435
+        width: 392
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d7d44eee0881d50800000000000000
+      internalID: 6708253408489209243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modescp
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1431
+        width: 391
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904c7328c2c1c9370800000000000000
+      internalID: 8330564388217406473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inapgun2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1274
+        width: 155
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad5a918ae26cee30800000000000000
+      internalID: 4534107684191493540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policetransport
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1312
+        width: 199
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52ae823d7bdd82a0800000000000000
+      internalID: -6733484537083420067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1314
+        width: 200
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9100be164045fd490800000000000000
+      internalID: -7719358858490347495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinohunting
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1314
+        width: 199
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cdc6ef00ac2fad0800000000000000
+      internalID: -2669849523459924870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1314
+        width: 199
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a28ee1db473b5a10800000000000000
+      internalID: 1899172466650940068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1359
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ff073945a75f170800000000000000
+      internalID: 8211603999249465171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1319
+        width: 422
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e893cd0dd530e30800000000000000
+      internalID: 4468518406911004223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_40
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1320
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156059dce540f83f0800000000000000
+      internalID: -896492995600906671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPECFILLBARBG
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1266
+        width: 461
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01dd4570379fed0800000000000000
+      internalID: -2379744452762857224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animaltransport
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1209
+        width: 199
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08212691a47f34b50800000000000000
+      internalID: 6576371778516554368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1209
+        width: 199
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af0649c962b8f50800000000000000
+      internalID: 6884638909312072214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangste
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1209
+        width: 199
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09086c67f5a5ddb50800000000000000
+      internalID: 6619546393365610640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robottransform
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1209
+        width: 199
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3835ae7f7732adb30800000000000000
+      internalID: 4312798591328080771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty yellow
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1222
+        width: 422
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0f94386b7feba90800000000000000
+      internalID: -7296121983034855198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FILLBARBG
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1239
+        width: 438
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0551467de9385e610800000000000000
+      internalID: 1649869556742886736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goldbricks
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1090
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d68712979cc2f50800000000000000
+      internalID: 6858077854668188939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1013
+        width: 306
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b55d249f0154ca0800000000000000
+      internalID: -6033397463038731431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 942
+        width: 401
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae037d744415dea10800000000000000
+      internalID: 1940296368171462890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino4
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 968
+        width: 463
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d07e57ad40cafa0800000000000000
+      internalID: -5788246084750471795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino7
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1001
+        width: 338
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc466fdd76676770800000000000000
+      internalID: 8603958303919590644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunshaft
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1040
+        width: 148
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0595096491dac9c80800000000000000
+      internalID: -8314580487963125424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levelbg
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 920
+        width: 178
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f90a21018ce760f0800000000000000
+      internalID: -1123669543191180815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino3
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 799
+        width: 329
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd13c88c171eba000800000000000000
+      internalID: 48380099829707227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levelbar
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 965
+        width: 152
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babb0e8253a8b2390800000000000000
+      internalID: -7842022365211870293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 812
+        width: 337
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80924554cf58d0c0800000000000000
+      internalID: -4550782126609231729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino5
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 744
+        width: 404
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c9d70774299f80800000000000000
+      internalID: -8099402361197706297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino6
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 686
+        width: 378
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df874d84e75da70800000000000000
+      internalID: 8851119493934021924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 681
+        width: 292
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386fbb1a7f16ae170800000000000000
+      internalID: 8208480987034416771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunbgblue
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 532
+        width: 395
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3527b6f063c3e10800000000000000
+      internalID: 2178675759595541465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specbg
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 280
+        width: 675
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b18b916fb1dca80800000000000000
+      internalID: -8445062982442411228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunbgyellow
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 343
+        width: 395
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e96f6deecbd8be40800000000000000
+      internalID: 5672525412466387433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_65
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 506
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0509dc9ea782963c0800000000000000
+      internalID: -4365913855385300912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalicon
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 506
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a5f3e0a2f8cb110800000000000000
+      internalID: 1278053805056809548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 300
+        width: 331
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6628056790fb7c0800000000000000
+      internalID: -4053510735848642887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunbgrey
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 154
+        width: 395
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a31098f24f640b0800000000000000
+      internalID: -5744635789665289693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policetransporticon
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 326
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4814de5e8b8042430800000000000000
+      internalID: 3757137579358372228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmingicon
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 326
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a5ccfea6d46480800000000000000
+      internalID: -8906758115978532409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 180
+        width: 314
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e706cb7068c300800000000000000
+      internalID: 272573862175564734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 183
+        width: 322
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84f3bf05804805f0800000000000000
+      internalID: -790310794365242227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangster
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 97
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396633d43f735d030800000000000000
+      internalID: 3518780201971705491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JailPrisoner
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 97
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6621ca76ef46ce0800000000000000
+      internalID: -1412724661865519394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: busicon
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 144
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3df0abc2ca3cf10800000000000000
+      internalID: 2288862343734481905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_76roboticon
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 140
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc254f1e23826300800000000000000
+      internalID: 243901563947789508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 348
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceab735aa04f82440800000000000000
+      internalID: 4911443720206269164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunlock
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 22
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d095b2542315920800000000000000
+      internalID: 2977216101329997157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun3
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 12
+        width: 182
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80c7b7f00ebe3f10800000000000000
+      internalID: 2251445775097118859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 342
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c75e9c3a860230800000000000000
+      internalID: 3604720544715883193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 38
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8444acd3b7517480800000000000000
+      internalID: -8903238558322244470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tick
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 31
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dd939db747bdc60800000000000000
+      internalID: 7843991251270098246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Everything
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1292
+        width: 505
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc10fcec58fa500f0800000000000000
+      internalID: -1151321140488109617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profilebg
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 474
+        width: 102
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441250e34a47f2350800000000000000
+      internalID: 5994137877817401668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inapp mode2
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1684
+        width: 142
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6a8cc45fe0bbe50800000000000000
+      internalID: 6826066106928113375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inapp mode3
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1586
+        width: 142
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d82e537ed559e30800000000000000
+      internalID: 4509613849504288090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollaricon
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1596
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6e193542ef363c0800000000000000
+      internalID: -4367367781644900664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsicon
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1590
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1b70c847a54d930800000000000000
+      internalID: 4167055011836572087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGun
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1781
+        width: 144
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7766e492ed9de4110800000000000000
+      internalID: 1247173695027177079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 82
+        width: 349
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c87d6c55d6c35920800000000000000
+      internalID: 2977942398303041733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2
+        width: 359
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd6582ccef0b260800000000000000
+      internalID: 7111463964421577707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ac22ed540686c0800000000000000
+      internalID: -4141618006047545035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1615
+        width: 162
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba981f9f31c8030800000000000000
+      internalID: 3498192974780148551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_90
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7e3db83b9093730800000000000000
+      internalID: 3979222412508260327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_92
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1192
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e620419ff952d4170800000000000000
+      internalID: 8164223068501443182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 426
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21058f88527931200800000000000000
+      internalID: 149629400100917266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_107
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 5
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd71ee1a476ef7a0800000000000000
+      internalID: -6341517657247744555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueButton
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 431
+        width: 202
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9904d786ecfd29540800000000000000
+      internalID: 5013315412826079385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1543
+        width: 170
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4031057653edb9b0800000000000000
+      internalID: -5062640445624864694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1555
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cb90445f72a6590800000000000000
+      internalID: -7680282280165000068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
