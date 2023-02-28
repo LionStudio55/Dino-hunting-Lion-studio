@@ -2,53 +2,47 @@
     "m_SelectedDeviceId": "3432613526001X2",
     "m_SelectedPackage": {
         "deviceId": "3432613526001X2",
-        "name": "com.rescue.angry.animal.transport.truck.Simulator",
-        "processId": 15514,
-        "exited": false
+        "name": "com.offroad.snow.excavator.simulator.games",
+        "processId": 29809,
+        "exited": true
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "3432613526001X2",
             "name": "com.offroad.snow.excavator.simulator.games",
-            "processId": 19749,
+            "processId": 21845,
             "exited": true
         },
         {
             "deviceId": "3432613526001X2",
-            "name": "com.mini.car.racing.stunt.game",
-            "processId": 21945,
+            "name": "com.offroad.snow.excavator.simulator.games",
+            "processId": 23199,
             "exited": true
         },
         {
             "deviceId": "3432613526001X2",
-            "name": "com.mini.car.racing.stunt.game",
-            "processId": 22265,
+            "name": "com.offroad.snow.excavator.simulator.games",
+            "processId": 16769,
             "exited": true
         },
         {
             "deviceId": "3432613526001X2",
-            "name": "com.mini.car.racing.stunt.game",
-            "processId": 6196,
+            "name": "com.offroad.snow.excavator.simulator.games",
+            "processId": 1719,
             "exited": true
         },
         {
             "deviceId": "3432613526001X2",
-            "name": "com.android.launcher3",
-            "processId": 2705,
-            "exited": false
-        },
-        {
-            "deviceId": "3432613526001X2",
-            "name": "com.mini.car.racing.stunt.game",
-            "processId": 15196,
+            "name": "com.offroad.snow.excavator.simulator.games",
+            "processId": 24839,
             "exited": true
         },
         {
             "deviceId": "3432613526001X2",
-            "name": "com.rescue.angry.animal.transport.truck.Simulator",
-            "processId": 15514,
-            "exited": false
+            "name": "com.offroad.snow.excavator.simulator.games",
+            "processId": 29809,
+            "exited": true
         }
     ],
     "m_Tags": {
@@ -84,7 +78,7 @@
         ]
     },
     "m_MemoryViewerState": {
-        "MemoryWindowHeight": 300.0,
+        "MemoryWindowHeight": 651.0,
         "MemoryWindowWidth": 170.0,
         "MemoryTypeEnabled": [
             true,
@@ -98,8 +92,8 @@
             true,
             true
         ],
-        "MemoryGroup": 2,
-        "Behavior": 0
+        "MemoryGroup": 1,
+        "Behavior": 1
     },
     "m_Filter": "",
     "m_FilterIsRegularExpression": false,
