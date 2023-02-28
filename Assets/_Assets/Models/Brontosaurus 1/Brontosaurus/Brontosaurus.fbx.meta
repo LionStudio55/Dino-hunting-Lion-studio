@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: d0ecb7bc9ad10ec44b59fd890a4b06a4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: BLFoot
+  - first:
+      1: 100002
+    second: BLShin
+  - first:
+      1: 100004
+    second: BLThigh
+  - first:
+      1: 100006
+    second: Body
+  - first:
+      1: 100008
+    second: BRFoot
+  - first:
+      1: 100010
+    second: //RootNode
+  - first:
+      1: 100012
+    second: Brontosaurus
+  - first:
+      1: 100014
+    second: BRShin
+  - first:
+      1: 100016
+    second: BRThigh
+  - first:
+      1: 100018
+    second: Camera
+  - first:
+      1: 100020
+    second: FLFoot
+  - first:
+      1: 100022
+    second: FLShin
+  - first:
+      1: 100024
+    second: FLThigh
+  - first:
+      1: 100026
+    second: FRFoot
+  - first:
+      1: 100028
+    second: FrontBody
+  - first:
+      1: 100030
+    second: FRShin
+  - first:
+      1: 100032
+    second: FRThigh
+  - first:
+      1: 100034
+    second: Head
+  - first:
+      1: 100036
+    second: Jaw
+  - first:
+      1: 100038
+    second: Light
+  - first:
+      1: 100040
+    second: Neck1
+  - first:
+      1: 100042
+    second: Neck2
+  - first:
+      1: 100044
+    second: Neck3
+  - first:
+      1: 100046
+    second: Tail1
+  - first:
+      1: 100048
+    second: Tail2
+  - first:
+      1: 100050
+    second: Tail3
+  - first:
+      4: 400000
+    second: BLFoot
+  - first:
+      4: 400002
+    second: BLShin
+  - first:
+      4: 400004
+    second: BLThigh
+  - first:
+      4: 400006
+    second: Body
+  - first:
+      4: 400008
+    second: BRFoot
+  - first:
+      4: 400010
+    second: //RootNode
+  - first:
+      4: 400012
+    second: Brontosaurus
+  - first:
+      4: 400014
+    second: BRShin
+  - first:
+      4: 400016
+    second: BRThigh
+  - first:
+      4: 400018
+    second: Camera
+  - first:
+      4: 400020
+    second: FLFoot
+  - first:
+      4: 400022
+    second: FLShin
+  - first:
+      4: 400024
+    second: FLThigh
+  - first:
+      4: 400026
+    second: FRFoot
+  - first:
+      4: 400028
+    second: FrontBody
+  - first:
+      4: 400030
+    second: FRShin
+  - first:
+      4: 400032
+    second: FRThigh
+  - first:
+      4: 400034
+    second: Head
+  - first:
+      4: 400036
+    second: Jaw
+  - first:
+      4: 400038
+    second: Light
+  - first:
+      4: 400040
+    second: Neck1
+  - first:
+      4: 400042
+    second: Neck2
+  - first:
+      4: 400044
+    second: Neck3
+  - first:
+      4: 400046
+    second: Tail1
+  - first:
+      4: 400048
+    second: Tail2
+  - first:
+      4: 400050
+    second: Tail3
+  - first:
+      43: 4300000
+    second: Brontosaurus
+  - first:
+      74: 7400000
+    second: Walk
+  - first:
+      74: 7400002
+    second: Die
+  - first:
+      74: 7400004
+    second: Idle1
+  - first:
+      74: 7400006
+    second: Idle2
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Brontosaurus
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrontosaurusMat
+    second: {fileID: 2100000, guid: 3884c2263bbd65543b423dc96bd5ae8d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 67
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Brontosaurus
+        weight: 1
+      - path: Brontosaurus/Body
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh/BLShin
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh/BRShin
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3/Head
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3/Head/Jaw
+        weight: 1
+      - path: Brontosaurus/Body/Tail1
+        weight: 1
+      - path: Brontosaurus/Body/Tail1/Tail2
+        weight: 1
+      - path: Brontosaurus/Body/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 70
+      lastFrame: 159
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Brontosaurus
+        weight: 1
+      - path: Brontosaurus/Body
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh/BLShin
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh/BRShin
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3/Head
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3/Head/Jaw
+        weight: 1
+      - path: Brontosaurus/Body/Tail1
+        weight: 1
+      - path: Brontosaurus/Body/Tail1/Tail2
+        weight: 1
+      - path: Brontosaurus/Body/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle1
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 162
+      lastFrame: 400
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Brontosaurus
+        weight: 1
+      - path: Brontosaurus/Body
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh/BLShin
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh/BRShin
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3/Head
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3/Head/Jaw
+        weight: 1
+      - path: Brontosaurus/Body/Tail1
+        weight: 1
+      - path: Brontosaurus/Body/Tail1/Tail2
+        weight: 1
+      - path: Brontosaurus/Body/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle2
+      takeName: Base Stack
+      internalID: 0
+      firstFrame: 400
+      lastFrame: 929
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Brontosaurus
+        weight: 1
+      - path: Brontosaurus/Body
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh/BLShin
+        weight: 1
+      - path: Brontosaurus/Body/BLThigh/BLShin/BLFoot
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh/BRShin
+        weight: 1
+      - path: Brontosaurus/Body/BRThigh/BRShin/BRFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh/FLShin
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FLThigh/FLShin/FLFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh/FRShin
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/FRThigh/FRShin/FRFoot
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3/Head
+        weight: 1
+      - path: Brontosaurus/Body/FrontBody/Neck1/Neck2/Neck3/Head/Jaw
+        weight: 1
+      - path: Brontosaurus/Body/Tail1
+        weight: 1
+      - path: Brontosaurus/Body/Tail1/Tail2
+        weight: 1
+      - path: Brontosaurus/Body/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Brontosaurus(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Brontosaurus
+      parentName: Brontosaurus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Brontosaurus
+      position: {x: 0, y: 3.4284902, z: -1.5149604}
+      rotation: {x: 0.7048035, y: -0.7048036, z: 0.057026193, w: 0.057026256}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000007}
+    - name: BLThigh
+      parentName: Body
+      position: {x: -0.026999146, y: 1.186139, z: -1.5393232}
+      rotation: {x: -0, y: 0.72964305, z: 0.000000029802319, w: -0.6838283}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: BLShin
+      parentName: BLThigh
+      position: {x: -0.00000011920929, y: 0.000000018588839, z: -2.2030656}
+      rotation: {x: -0.00000006110092, y: -0.2319653, z: -0.00000006673899, w: 0.9727241}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: BLFoot
+      parentName: BLShin
+      position: {x: -0.000000059604645, y: 4.2351647e-22, z: -1.1632296}
+      rotation: {x: -0.00000006459552, y: -0.18904191, z: -0.00000006284223, w: -0.9819691}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: FrontBody
+      parentName: Body
+      position: {x: 0.000000029802322, y: 0.00000026744692, z: -3.099555}
+      rotation: {x: -0.00000005960463, y: -0.45558238, z: 0.00000005960463, w: -0.8901936}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000005}
+    - name: FLThigh
+      parentName: FrontBody
+      position: {x: 0.009889007, y: 1.1861389, z: -1.9952539}
+      rotation: {x: -0.000000011331716, y: -0.8492956, z: 0.00000004504243, w: 0.5279175}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000006}
+    - name: FLShin
+      parentName: FLThigh
+      position: {x: -0.000000029802322, y: 2.6645353e-15, z: -3.008651}
+      rotation: {x: 0.000000005223538, y: -0.22199827, z: 0.000000032388662, w: -0.9750471}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: FLFoot
+      parentName: FLShin
+      position: {x: -0, y: 2.9730867e-15, z: -1.673699}
+      rotation: {x: -0.000000039965958, y: 0.045517992, z: -0.000000044220304, w: -0.9989636}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
+    - name: Neck1
+      parentName: FrontBody
+      position: {x: -0, y: -8.4703295e-22, z: -3.7986476}
+      rotation: {x: 0.00000002310796, y: -0.20066038, z: -0.00000004582307, w: -0.9796609}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: Neck2
+      parentName: Neck1
+      position: {x: -0.00000011920929, y: -1.6940659e-21, z: -3.0454526}
+      rotation: {x: -2.1232432e-10, y: -0.015510719, z: 6.6009936e-10, w: -0.9998797}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000005}
+    - name: Neck3
+      parentName: Neck2
+      position: {x: -0, y: 2.0261592e-14, z: -2.8515658}
+      rotation: {x: -0.000000033026105, y: -0.013005898, z: 0.000000052476604, w: -0.9999155}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: Head
+      parentName: Neck3
+      position: {x: -0.00000011920929, y: -1.6940659e-21, z: -1.9397949}
+      rotation: {x: -0.000000020260046, y: 0.40650162, z: 0.0000000043548, w: -0.9136501}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1}
+    - name: Jaw
+      parentName: Head
+      position: {x: 0.123693034, y: -2.5933934e-15, z: -0.50414234}
+      rotation: {x: 0.000000049596235, y: 0.13261682, z: -0.00000009964445, w: -0.9911674}
+      scale: {x: 1, y: 1.0000002, z: 1.0000005}
+    - name: FRThigh
+      parentName: FrontBody
+      position: {x: 0.009889007, y: -1.1861389, z: -1.9952539}
+      rotation: {x: -0.000000011331716, y: -0.8492956, z: 0.00000004504243, w: 0.5279175}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: FRShin
+      parentName: FRThigh
+      position: {x: -0.000000029802322, y: 2.6645353e-15, z: -3.008651}
+      rotation: {x: -0.000000005223538, y: 0.22199827, z: -0.000000032388662, w: 0.9750471}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000004}
+    - name: FRFoot
+      parentName: FRShin
+      position: {x: -0, y: 2.9730867e-15, z: -1.673699}
+      rotation: {x: 0.000000016901613, y: 0.045517992, z: 0.000000024770163, w: -0.9989636}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: Tail1
+      parentName: Body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000008940696, y: 0.99947435, z: 0.000000048428767, w: -0.03241907}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: Tail2
+      parentName: Tail1
+      position: {x: -0, y: 0, z: -2.279377}
+      rotation: {x: -0.000000006900874, y: -0.067089476, z: -0.00000003309106, w: 0.997747}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: Tail3
+      parentName: Tail2
+      position: {x: 0.000000014901161, y: -5.293956e-23, z: -2.7208638}
+      rotation: {x: 0.0000000020459845, y: -0.034474816, z: -0.0000000017704361, w: 0.99940556}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: BRThigh
+      parentName: Body
+      position: {x: -0.026999025, y: -1.1861387, z: -1.5393234}
+      rotation: {x: -0, y: 0.72964305, z: 0.000000029802319, w: -0.6838283}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: BRShin
+      parentName: BRThigh
+      position: {x: -0.00000011920929, y: 0.000000018588839, z: -2.2030656}
+      rotation: {x: -0.000000058370137, y: -0.23196518, z: 0.00000001751047, w: 0.9727241}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.99999994}
+    - name: BRFoot
+      parentName: BRShin
+      position: {x: -0.000000059604645, y: 4.2351647e-22, z: -1.1632296}
+      rotation: {x: 0.0000000064104206, y: 0.1890418, z: -0.00000005076555, w: 0.9819691}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+    - name: Light
+      parentName: Brontosaurus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Camera
+      parentName: Brontosaurus(Clone)
+      position: {x: 17.446856, y: 4.2000003, z: 16.42465}
+      rotation: {x: -0.07133081, y: 0.43620777, z: 0.034713354, w: 0.89634246}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
